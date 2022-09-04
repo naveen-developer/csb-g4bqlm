@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "https://naveen-developer.github.io/csb-g4bqlm/static/css/main.7d5271ec.chunk.css",
+    "main.js": "https://naveen-developer.github.io/csb-g4bqlm/static/js/main.651de5af.chunk.js",
+    "main.js.map": "https://naveen-developer.github.io/csb-g4bqlm/static/js/main.651de5af.chunk.js.map",
+    "runtime-main.js": "https://naveen-developer.github.io/csb-g4bqlm/static/js/runtime-main.baab3afb.js",
+    "runtime-main.js.map": "https://naveen-developer.github.io/csb-g4bqlm/static/js/runtime-main.baab3afb.js.map",
+    "static/js/2.ac845c30.chunk.js": "https://naveen-developer.github.io/csb-g4bqlm/static/js/2.ac845c30.chunk.js",
+    "static/js/2.ac845c30.chunk.js.map": "https://naveen-developer.github.io/csb-g4bqlm/static/js/2.ac845c30.chunk.js.map",
+    "index.html": "https://naveen-developer.github.io/csb-g4bqlm/index.html",
+    "static/css/main.7d5271ec.chunk.css.map": "https://naveen-developer.github.io/csb-g4bqlm/static/css/main.7d5271ec.chunk.css.map",
+    "static/js/2.ac845c30.chunk.js.LICENSE.txt": "https://naveen-developer.github.io/csb-g4bqlm/static/js/2.ac845c30.chunk.js.LICENSE.txt",
+    "static/media/Aafat.d73f0b46.mp3": "https://naveen-developer.github.io/csb-g4bqlm/static/media/Aafat.d73f0b46.mp3",
+    "static/media/Akdi Pakdi.f89336f8.mp3": "https://naveen-developer.github.io/csb-g4bqlm/static/media/Akdi Pakdi.f89336f8.mp3",
+    "static/media/Duniya.c5fdf193.mp3": "https://naveen-developer.github.io/csb-g4bqlm/static/media/Duniya.c5fdf193.mp3",
+    "static/media/I Am Ready.e1ca76a7.mp3": "https://naveen-developer.github.io/csb-g4bqlm/static/media/I Am Ready.e1ca76a7.mp3",
+    "static/media/Inthandham.459bbabc.mp3": "https://naveen-developer.github.io/csb-g4bqlm/static/media/Inthandham.459bbabc.mp3",
+    "static/media/Kumkumala.295cafda.mp3": "https://naveen-developer.github.io/csb-g4bqlm/static/media/Kumkumala.295cafda.mp3",
+    "static/media/Paraka Paraka.937e1582.mp3": "https://naveen-developer.github.io/csb-g4bqlm/static/media/Paraka Paraka.937e1582.mp3",
+    "static/media/Srivalli.e5496638.mp3": "https://naveen-developer.github.io/csb-g4bqlm/static/media/Srivalli.e5496638.mp3",
+    "static/media/Toofan.1964686d.mp3": "https://naveen-developer.github.io/csb-g4bqlm/static/media/Toofan.1964686d.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baab3afb.js",
+    "static/js/2.ac845c30.chunk.js",
+    "static/css/main.7d5271ec.chunk.css",
+    "static/js/main.651de5af.chunk.js"
+  ]
+}
